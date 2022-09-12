@@ -20,3 +20,6 @@ Take in the studentMarks array
 - work out the mean of those squared differences
 - take the square root of that.
 - print the deviation variable
+
+## Walkthrough video
+Uploading...
