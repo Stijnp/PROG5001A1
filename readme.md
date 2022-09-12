@@ -2,6 +2,7 @@
 
 ## Pseudocode
 ### Algorithm 1
+> ManageStudentMarks.java
 - Use scanner with prompt “input unit name” and save in unitName variable
 - Use scanner with prompt “input student marks” which repeats 25 times and saves in the studentMarks array
 - If input is not number between 0 and 100 do show error message, then allow for re-entering the mark
@@ -9,7 +10,8 @@
 - Print max and min from studentMarks array
 
 ### Algorithm 2
-Take in the studentMarks array
+> MSTD.java
+- Take in the studentMarks array  
 // Calculate mean
 - int sum = Loop over values in studentMarks array and add them up
 - double mean = sum/studentMarks.length
@@ -22,4 +24,4 @@ Take in the studentMarks array
 - print the deviation variable
 
 ## Walkthrough video
-Uploading...
+[Google Drive link](https://drive.google.com/file/d/1KWEpEdlAWFNc7qg23ypFVOtkS_e1X0m0/view?usp=sharing)
